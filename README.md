@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <video width="100%" autoplay loop muted playsinline>
-  <source src="./bannereu.mp4" type="video/mp4">
+  <source src="https://github.com/fabriciopalma27/fabriciopalma27/blob/main/bannereu.mp4" type="video/mp4">
 </video>
 
  ### Main skills: 
