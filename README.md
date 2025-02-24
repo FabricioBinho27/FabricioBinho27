@@ -2,7 +2,6 @@
 
 <video width="100%" autoplay loop muted playsinline>
   <source src="./bannereu.mp4" type="video/mp4">
-  Seu navegador não suporta o vídeo.
 </video>
 
  ### Main skills: 
