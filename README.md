@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-
-![bannereu](https://github.com/user-attachments/assets/8ccac334-8766-42f6-8300-e776544dda52)
+![bannereuv2](https://github.com/user-attachments/assets/2ddca63c-76a7-4ecb-a328-a79666a05092)
 
 
 
