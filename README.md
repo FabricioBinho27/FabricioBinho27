@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="https://github.com/fabriciopalma27/fabriciopalma27/blob/main/bannereu.mp4" type="video/mp4">
-</video>
+
+
+![bannereu](https://github.com/user-attachments/assets/8ccac334-8766-42f6-8300-e776544dda52)
+
+
 
  ### Main skills: 
  ![Python](https://img.shields.io/badge/Python-203961?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
